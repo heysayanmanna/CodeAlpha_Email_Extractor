@@ -72,7 +72,7 @@ Task_3_Email_Extractor
 ```
 ## 📸 Project Screenshots
 
-👉 📧 [Click Here to View All Email Extractor Screenshots](https://github.com/heysayanmanna/CodeAlpha_Email_Extractor/tree/main/Task_3_Email_Extractor/screenshots)
+👉 📧 [Click Here to View All Email Extractor Screenshots](https://github.com/heysayanmanna/CodeAlpha_Email_Extractor/blob/main/screenshots/email_extractor.png)
 ---
 
 ## 👨‍💻 Author
